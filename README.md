@@ -9,7 +9,7 @@ Thank you for visiting my profile. To learn more or to contact me, you can use t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👋 Merhaba, bir front-end ve React geliştiricisi  bendeniz Vedat ALTUN, teknoloji dünyasında bir adım önde olmayı hedefliyorum. Beni daha iyi tanımak isterseniz...:
+👋 Merhaba, bir front-end ve React geliştiricisi  bendeniz Vedat ALTUN, teknoloji dünyasında her zaman önde olmayı hedefliyorum. Beni daha iyi tanımak isterseniz...:
 💻 Front-end geliştirme ve React ile ilgileniyorum. 🚀Teknolojinin sürekli gelişimine açık ve yeni teknolojileri öğrenmeye ve uygulamaya istekliyim. 🤝Takım işbirliğine güçlü bir inancım var ve uyumlu takım çalışması için çaba gösteren biriyim.
 ⚛️Web ve mobil uygulama geliştirme konusunda React ve React Native'e öncelik veriyorum. 📱 React Native başta olmak üzere mobil yazılım teknolojilerine büyük bir ilgim var.
 Ekip çalışmasına uyum sağlama yeteneğime değer veriyorum ve bunun projeleri daha başarılı kılma potansiyelime sahip olduğuma inanıyorum.
