@@ -9,7 +9,7 @@ Feel free to get in touch with me:
 📧 Email: [rttvedudi@gmail.com] 
 💼 LinkedIn: (https://www.linkedin.com/in/vedat-a-0587582b1) If you'd like to contribute to my projects or collaborate, please don't hesitate to reach out. I'm also happy to chat about anything related to technology and share experiences.
 
-Thank you for visiting my profile. To learn more or to contact me, you can use the contact information above.
+Thank you for visiting my profile. To learn more or to contact me, you can use the contact information above .
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
