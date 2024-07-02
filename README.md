@@ -1,31 +1,30 @@
-👋 Hi, as a front-end and React developer! I'm Vedat ALTUN, aiming to stay ahead in the world of technology. Here's some information to get to know me better:
-💻 I'm interes in front-end development and React. 
-🚀 I'm open to the constant evolution of technology and eager to learn and implement new technologies. 
-🤝 I approach team collaboration with a strong belief and make efforts for harmonious teamwork.
-⚛️ I prioritize working with React and React Native for web and mobile application development. 
-📱 I have a keen interest in mobile software technologies, especially React Native.
-I value the ability to adapt to teamwork and believe it has the potential to make projects more successful.
-Feel free to get in touch with me:
-📧 Email: [rttvedudi@gmail.com] 
-💼 LinkedIn: (https://www.linkedin.com/in/vedat-a-0587582b1) If you'd like to contribute to my projects or collaborate, please don't hesitate to reach out. I'm also happy to chat about anything related to technology and share experiences.
-
-Thank you for visiting my profile. To learn more or to contact me, you can use the contact information above .
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-👋 Merhaba, bir front-end ve React geliştiricisi  bendeniz Vedat ALTUN, teknoloji dünyasında her zaman önde olmayı hedefliyorum. Beni daha iyi tanımak isterseniz...:
-💻 Front-end geliştirme ve React ile ilgileniyorum. 
-🚀Teknolojinin sürekli gelişimine açık ve yeni teknolojileri öğrenmeye ve uygulamaya istekliyim. 
-🤝Takım işbirliğine güçlü bir inancım var ve uyumlu takım çalışması için çaba gösteren biriyim.
-⚛️Web ve mobil uygulama geliştirme konusunda React ve React Native'e öncelik veriyorum. 
-📱 React Native başta olmak üzere mobil yazılım teknolojilerine büyük bir ilgim var.
-Ekip çalışmasına uyum sağlama yeteneğime değer veriyorum ve bunun projeleri daha başarılı kılma potansiyelime sahip olduğuma inanıyorum.
-Benimle iletişime geçmek isterseniz:
-📧 E-posta: [rttvedudi@gmail.com] 
-💼 LinkedIn: (https://www.linkedin.com/in/vedat-a-0587582b1) 
-Projelerime katkıda bulunmak veya işbirliği yapmak için ulaşmak isterseniz lütfen çekinmeyin . Ayrıca teknolojiyle ilgili her konuda sohbet etmekten ve deneyimleri paylaşmaktan da mutlululuk duyarım.
-
-Profilimi ziyaret ettiğiniz için teşekkür ederim. Daha fazlasını öğrenmek veya benimle iletişime geçmek için yukarıdaki iletişim bilgilerini kullanabilirsiniz.
+# 💫 About Me:
+👋 Hi, as a front-end and React developer! I'm Vedat ALTUN, aiming to stay ahead in the world of technology. Here's some information to get to know me better:<br>💻 I'm interes in front-end development and React. <br>🚀 I'm open to the constant evolution of technology and eager to learn and implement new technologies. <br>🤝 I approach team collaboration with a strong belief and make efforts for harmonious teamwork.<br>⚛️ I prioritize working with React and React Native for web and mobile application development. <br>📱 I have a keen interest in mobile software technologies, especially React Native.<br>I value the ability to adapt to teamwork and believe it has the potential to make projects more successful.<br>Feel free to get in touch with me:<br>📧 Email: [rttvedudi@gmail.com] <br>💼 LinkedIn: (https://www.linkedin.com/in/vedat-a-0587582b1) If you'd like to contribute to my projects or collaborate, please don't hesitate to reach out. I'm also happy to chat about anything related to technology and share experiences.<br><br>Thank you for visiting my profile. To learn more or to contact me, you can use the contact information above.<br><br>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br><br>👋 Merhaba, bir front-end ve React geliştiricisi  bendeniz Vedat ALTUN, teknoloji dünyasında her zaman önde olmayı hedefliyorum. Beni daha iyi tanımak isterseniz...:<br>💻 Front-end geliştirme ve React ile ilgileniyorum. <br>🚀Teknolojinin sürekli gelişimine açık ve yeni teknolojileri öğrenmeye ve uygulamaya istekliyim. <br>🤝Takım işbirliğine güçlü bir inancım var ve uyumlu takım çalışması için çaba gösteren biriyim.<br>⚛️Web ve mobil uygulama geliştirme konusunda React ve React Native'e öncelik veriyorum. <br>📱 React Native başta olmak üzere mobil yazılım teknolojilerine büyük bir ilgim var.<br>Ekip çalışmasına uyum sağlama yeteneğime değer veriyorum ve bunun projeleri daha başarılı kılma potansiyelime sahip olduğuma inanıyorum.<br>Benimle iletişime geçmek isterseniz:<br>📧 E-posta: [rttvedudi@gmail.com] <br>💼 LinkedIn: (https://www.linkedin.com/in/vedat-a-0587582b1) <br>Projelerime katkıda bulunmak veya işbirliği yapmak için ulaşmak isterseniz lütfen çekinmeyin . Ayrıca teknolojiyle ilgili her konuda sohbet etmekten ve deneyimleri paylaşmaktan da mutlululuk duyarım.<br><br>Profilimi ziyaret ettiğiniz için teşekkür ederim. Daha fazlasını öğrenmek veya benimle iletişime geçmek için yukarıdaki iletişim bilgilerini kullanabilirsiniz.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedat-a-0587582b1/) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vedudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vedudi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vedudi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vedudi&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=vedudi&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
